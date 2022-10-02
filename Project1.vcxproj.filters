@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Virtualwallet.cpp">
+    <ClCompile Include="ANEMIA_PATTERN\Virtualwallet.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Virtualwallet.h">
-      <Filter>源文件</Filter>
+    <ClInclude Include="ANEMIA_PATTERN\Virtualwallet.h">
+      <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
